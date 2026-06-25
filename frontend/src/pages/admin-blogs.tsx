@@ -1,7 +1,7 @@
 import PenIcon from '@/assets/svg/pen-icon';
 import TrasnIcon from '@/assets/svg/trash-icon';
 import axiosInstance from '@/helpers/axios-instance';
-import formatPostTime from '@/utils/format-post-time';
+import formatPostTime from '@/utils/format-post-time'; 
 import { useEffect, useState } from 'react';
 import { toast } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';

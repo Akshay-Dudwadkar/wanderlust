@@ -18,4 +18,4 @@ COPY .env.docker .env
 
 EXPOSE 5000
 
-CMD ["npm", "start"]
+CMD ["npm", "start"] 
